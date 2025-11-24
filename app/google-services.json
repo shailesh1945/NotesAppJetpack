@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354060839199",
+    "project_id": "newnotejetpack",
+    "storage_bucket": "newnotejetpack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354060839199:android:c6ac212bedf96060b5682a",
+        "android_client_info": {
+          "package_name": "com.shailesh.notesappjetpack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ586vzX4I7nquqNI-dsghmJhfAHz_uc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
